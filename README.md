@@ -2,10 +2,10 @@
 
 Contains documentation on things that I want to remember.
 
-####Personal
+###Personal
 
-**Projects.md**
-Lists of Projects I want to build.
+1. **Projects.md**
+  1. Lists of Projects I want to build.
 
-**ToRead.md**
-Lists of books I want to read.
+2. **ToRead.md**
+  1. Lists of books I want to read.
