@@ -1,2 +1,6 @@
-# ProjectsToBuild
-Contains a list of projects that I want to build
+# Docs
+
+Contains documentation on things that I want to remember.
+
+#####Projects.md
+Lists of Projects to be build in Projects.md.
