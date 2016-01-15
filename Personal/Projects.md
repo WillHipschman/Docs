@@ -4,5 +4,7 @@
   1. Maze client mapping/drawing maze (javacsript)
   2. Maze client CLI maze game (Ruby)
   3. Maze client boaster (Ruby/Go)
+  4. Maze client that creates and PUTs mazes
 4. Up For Grabs: http://up-for-grabs.net/#/
+5. Upload bats to git
   
