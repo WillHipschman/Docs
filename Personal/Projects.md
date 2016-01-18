@@ -6,5 +6,8 @@
   3. Maze client boaster (Ruby/Go)
   4. Maze client that creates and PUTs mazes
 4. Up For Grabs: http://up-for-grabs.net/#/
-5. Upload bats to git
+5. Upload bats to 
+6. Battleship (Ruby?)
+7. Recipe List Database
+8. Connect Four
   
