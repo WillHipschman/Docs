@@ -2,7 +2,7 @@
 *Heart of Darkness - Joseph Conrad
 *The sound and the fury
 *Madame Bovary
-*Lolita 
+*LolitaÂ 
 *In Search of Lost Time
 *Hamlet
 *The Great Gatsby
@@ -43,4 +43,5 @@
 *Surely You're Joking Mr. Feynman
 *Thinking, fast and slow by Daniel Kahneman
 *Marcus Aurelius: Meditations
+*Just Mercy
 
