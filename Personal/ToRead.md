@@ -1,5 +1,5 @@
-Alchemist
-Four Agreements
+*Alchemist
+*Four Agreements
 * The Kite Runner - Khaled Hosseini
 * Heart of Darkness - Joseph Conrad
 * The sound and the fury
